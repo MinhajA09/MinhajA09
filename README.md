@@ -10,10 +10,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MinhajA09/MinhajA09.github.io](https://github.com/MinhajA09/MinhajA09.github.io)
-
-- 📫 How to reach me **minhajahmad2572001@gmail.com**
-
 - ⚡ Fun fact **I am Very funny😁**
 
 <h3 align="left">Connect with me:</h3>
